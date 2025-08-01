@@ -1,0 +1,1442 @@
+[
+  {
+    "storeUrl": "https://www.fashionnova.com/",
+    "timestamp": "2025-08-01T16:29:20.955Z",
+    "riskScore": 100,
+    "findings": {
+      "h1Detection": {
+        "status": "PASSED",
+        "evidence": "Primary H1 heading is present."
+      },
+      "termsLink": {
+        "status": "PASSED",
+        "evidence": "Found link with text: \"Terms of Service\""
+      }
+    }
+  },
+  {
+    "storeUrl": "https://www.gymshark.com/",
+    "timestamp": "2025-08-01T16:29:30.393Z",
+    "riskScore": 70,
+    "findings": {
+      "h1Detection": {
+        "status": "PASSED",
+        "evidence": "Primary H1 heading is present."
+      },
+      "termsLink": {
+        "status": "FAILED",
+        "evidence": "No link containing \"Terms of Service\" was found."
+      }
+    }
+  },
+  {
+    "storeUrl": "https://kith.com/",
+    "timestamp": "2025-08-01T16:29:40.767Z",
+    "riskScore": 70,
+    "findings": {
+      "h1Detection": {
+        "status": "PASSED",
+        "evidence": "Primary H1 heading is present."
+      },
+      "termsLink": {
+        "status": "FAILED",
+        "evidence": "No link containing \"Terms of Service\" was found."
+      }
+    }
+  },
+  {
+    "storeUrl": "https://www.bombas.com/",
+    "timestamp": "2025-08-01T16:29:50.104Z",
+    "riskScore": 50,
+    "findings": {
+      "h1Detection": {
+        "status": "FAILED",
+        "evidence": "No H1 heading was found."
+      },
+      "termsLink": {
+        "status": "FAILED",
+        "evidence": "No link containing \"Terms of Service\" was found."
+      }
+    }
+  },
+  {
+    "storeUrl": "https://www.allbirds.com/",
+    "timestamp": "2025-08-01T16:30:22.969Z",
+    "riskScore": 100,
+    "findings": {
+      "h1Detection": {
+        "status": "PASSED",
+        "evidence": "Primary H1 heading is present."
+      },
+      "termsLink": {
+        "status": "PASSED",
+        "evidence": "Found link with text: \"Terms of service\""
+      }
+    }
+  },
+  {
+    "storeUrl": "https://www.figma.com/merch/",
+    "timestamp": "2025-08-01T16:30:36.348Z",
+    "riskScore": 70,
+    "findings": {
+      "h1Detection": {
+        "status": "PASSED",
+        "evidence": "Primary H1 heading is present."
+      },
+      "termsLink": {
+        "status": "FAILED",
+        "evidence": "No link containing \"Terms of Service\" was found."
+      }
+    }
+  },
+  {
+    "storeUrl": "https://shop.tesla.com/",
+    "timestamp": "2025-08-01T16:30:44.056Z",
+    "riskScore": 70,
+    "findings": {
+      "h1Detection": {
+        "status": "PASSED",
+        "evidence": "Primary H1 heading is present."
+      },
+      "termsLink": {
+        "status": "FAILED",
+        "evidence": "No link containing \"Terms of Service\" was found."
+      }
+    }
+  },
+  {
+    "storeUrl": "https://www.rebeccaminkoff.com/",
+    "timestamp": "2025-08-01T16:30:49.282Z",
+    "riskScore": 50,
+    "findings": {
+      "h1Detection": {
+        "status": "FAILED",
+        "evidence": "No H1 heading was found."
+      },
+      "termsLink": {
+        "status": "FAILED",
+        "evidence": "No link containing \"Terms of Service\" was found."
+      }
+    }
+  },
+  {
+    "storeUrl": "https://www.mvmt.com/",
+    "timestamp": "2025-08-01T16:31:05.518Z",
+    "riskScore": 50,
+    "findings": {
+      "h1Detection": {
+        "status": "FAILED",
+        "evidence": "No H1 heading was found."
+      },
+      "termsLink": {
+        "status": "FAILED",
+        "evidence": "No link containing \"Terms of Service\" was found."
+      }
+    }
+  },
+  {
+    "storeUrl": "https://www.rothys.com/",
+    "timestamp": "2025-08-01T16:31:16.249Z",
+    "riskScore": 70,
+    "findings": {
+      "h1Detection": {
+        "status": "PASSED",
+        "evidence": "Primary H1 heading is present."
+      },
+      "termsLink": {
+        "status": "FAILED",
+        "evidence": "No link containing \"Terms of Service\" was found."
+      }
+    }
+  },
+  {
+    "storeUrl": "https://www.awaytravel.com/",
+    "timestamp": "2025-08-01T16:31:34.677Z",
+    "riskScore": 70,
+    "findings": {
+      "h1Detection": {
+        "status": "PASSED",
+        "evidence": "Primary H1 heading is present."
+      },
+      "termsLink": {
+        "status": "FAILED",
+        "evidence": "No link containing \"Terms of Service\" was found."
+      }
+    }
+  },
+  {
+    "storeUrl": "https://www.glossier.com/",
+    "timestamp": "2025-08-01T16:31:50.748Z",
+    "riskScore": 50,
+    "findings": {
+      "h1Detection": {
+        "status": "FAILED",
+        "evidence": "No H1 heading was found."
+      },
+      "termsLink": {
+        "status": "FAILED",
+        "evidence": "No link containing \"Terms of Service\" was found."
+      }
+    }
+  },
+  {
+    "storeUrl": "https://www.brooklinen.com/",
+    "timestamp": "2025-08-01T16:31:59.866Z",
+    "riskScore": 80,
+    "findings": {
+      "h1Detection": {
+        "status": "FAILED",
+        "evidence": "No H1 heading was found."
+      },
+      "termsLink": {
+        "status": "PASSED",
+        "evidence": "Found link with text: \"Terms of Service\""
+      }
+    }
+  },
+  {
+    "storeUrl": "https://www.casper.com/",
+    "timestamp": "2025-08-01T16:32:10.979Z",
+    "riskScore": 70,
+    "findings": {
+      "h1Detection": {
+        "status": "PASSED",
+        "evidence": "Primary H1 heading is present."
+      },
+      "termsLink": {
+        "status": "FAILED",
+        "evidence": "No link containing \"Terms of Service\" was found."
+      }
+    }
+  },
+  {
+    "storeUrl": "https://www.harrys.com/",
+    "timestamp": "2025-08-01T16:32:25.882Z",
+    "riskScore": 80,
+    "findings": {
+      "h1Detection": {
+        "status": "FAILED",
+        "evidence": "No H1 heading was found."
+      },
+      "termsLink": {
+        "status": "PASSED",
+        "evidence": "Found link with text: \"Terms of Service\""
+      }
+    }
+  },
+  {
+    "storeUrl": "https://www.beardbrand.com/",
+    "timestamp": "2025-08-01T16:32:42.517Z",
+    "riskScore": 70,
+    "findings": {
+      "h1Detection": {
+        "status": "PASSED",
+        "evidence": "Primary H1 heading is present."
+      },
+      "termsLink": {
+        "status": "FAILED",
+        "evidence": "No link containing \"Terms of Service\" was found."
+      }
+    }
+  },
+  {
+    "storeUrl": "https://www.bulletproof.com/",
+    "timestamp": "2025-08-01T16:32:50.474Z",
+    "riskScore": 100,
+    "findings": {
+      "h1Detection": {
+        "status": "PASSED",
+        "evidence": "Primary H1 heading is present."
+      },
+      "termsLink": {
+        "status": "PASSED",
+        "evidence": "Found link with text: \"Terms of Service\""
+      }
+    }
+  },
+  {
+    "storeUrl": "https://www.hims.com/",
+    "timestamp": "2025-08-01T16:33:00.508Z",
+    "riskScore": 50,
+    "findings": {
+      "h1Detection": {
+        "status": "FAILED",
+        "evidence": "No H1 heading was found."
+      },
+      "termsLink": {
+        "status": "FAILED",
+        "evidence": "No link containing \"Terms of Service\" was found."
+      }
+    }
+  },
+  {
+    "storeUrl": "https://www.hers.com/",
+    "timestamp": "2025-08-01T16:33:05.960Z",
+    "riskScore": 50,
+    "findings": {
+      "h1Detection": {
+        "status": "FAILED",
+        "evidence": "No H1 heading was found."
+      },
+      "termsLink": {
+        "status": "FAILED",
+        "evidence": "No link containing \"Terms of Service\" was found."
+      }
+    }
+  },
+  {
+    "storeUrl": "https://www.thirdlove.com/",
+    "timestamp": "2025-08-01T16:33:11.577Z",
+    "riskScore": 100,
+    "findings": {
+      "h1Detection": {
+        "status": "PASSED",
+        "evidence": "Primary H1 heading is present."
+      },
+      "termsLink": {
+        "status": "PASSED",
+        "evidence": "Found link with text: \"Terms of Service\""
+      }
+    }
+  },
+  {
+    "storeUrl": "https://www.untuckit.com/",
+    "timestamp": "2025-08-01T16:33:45.427Z",
+    "riskScore": 70,
+    "findings": {
+      "h1Detection": {
+        "status": "PASSED",
+        "evidence": "Primary H1 heading is present."
+      },
+      "termsLink": {
+        "status": "FAILED",
+        "evidence": "No link containing \"Terms of Service\" was found."
+      }
+    }
+  },
+  {
+    "storeUrl": "https://shop.lululemon.com/",
+    "timestamp": "2025-08-01T16:34:01.001Z",
+    "riskScore": 0,
+    "findings": {
+      "fatalError": {
+        "status": "ERROR",
+        "evidence": "net::ERR_HTTP2_PROTOCOL_ERROR at https://shop.lululemon.com/"
+      }
+    }
+  },
+  {
+    "storeUrl": "https://www.vuoriclothing.com/",
+    "timestamp": "2025-08-01T16:34:06.465Z",
+    "riskScore": 70,
+    "findings": {
+      "h1Detection": {
+        "status": "PASSED",
+        "evidence": "Primary H1 heading is present."
+      },
+      "termsLink": {
+        "status": "FAILED",
+        "evidence": "No link containing \"Terms of Service\" was found."
+      }
+    }
+  },
+  {
+    "storeUrl": "https://www.outdoorvoices.com/",
+    "timestamp": "2025-08-01T16:34:35.177Z",
+    "riskScore": 70,
+    "findings": {
+      "h1Detection": {
+        "status": "PASSED",
+        "evidence": "Primary H1 heading is present."
+      },
+      "termsLink": {
+        "status": "FAILED",
+        "evidence": "No link containing \"Terms of Service\" was found."
+      }
+    }
+  },
+  {
+    "storeUrl": "https://www.greatjonesgoods.com/",
+    "timestamp": "2025-08-01T16:34:48.038Z",
+    "riskScore": 50,
+    "findings": {
+      "h1Detection": {
+        "status": "FAILED",
+        "evidence": "No H1 heading was found."
+      },
+      "termsLink": {
+        "status": "FAILED",
+        "evidence": "No link containing \"Terms of Service\" was found."
+      }
+    }
+  },
+  {
+    "storeUrl": "https://www.ouraring.com/",
+    "timestamp": "2025-08-01T16:35:07.970Z",
+    "riskScore": 70,
+    "findings": {
+      "h1Detection": {
+        "status": "PASSED",
+        "evidence": "Primary H1 heading is present."
+      },
+      "termsLink": {
+        "status": "FAILED",
+        "evidence": "No link containing \"Terms of Service\" was found."
+      }
+    }
+  },
+  {
+    "storeUrl": "https://www.teepublic.com/",
+    "timestamp": "2025-08-01T16:35:15.933Z",
+    "riskScore": 70,
+    "findings": {
+      "h1Detection": {
+        "status": "PASSED",
+        "evidence": "Primary H1 heading is present."
+      },
+      "termsLink": {
+        "status": "FAILED",
+        "evidence": "No link containing \"Terms of Service\" was found."
+      }
+    }
+  },
+  {
+    "storeUrl": "https://www.redbubble.com/",
+    "timestamp": "2025-08-01T16:35:28.212Z",
+    "riskScore": 50,
+    "findings": {
+      "h1Detection": {
+        "status": "FAILED",
+        "evidence": "No H1 heading was found."
+      },
+      "termsLink": {
+        "status": "FAILED",
+        "evidence": "No link containing \"Terms of Service\" was found."
+      }
+    }
+  },
+  {
+    "storeUrl": "https://www.society6.com/",
+    "timestamp": "2025-08-01T16:35:33.379Z",
+    "riskScore": 80,
+    "findings": {
+      "h1Detection": {
+        "status": "FAILED",
+        "evidence": "No H1 heading was found."
+      },
+      "termsLink": {
+        "status": "PASSED",
+        "evidence": "Found link with text: \"Terms of Service\""
+      }
+    }
+  },
+  {
+    "storeUrl": "https://www.deathwishcoffee.com/",
+    "timestamp": "2025-08-01T16:35:43.413Z",
+    "riskScore": 70,
+    "findings": {
+      "h1Detection": {
+        "status": "PASSED",
+        "evidence": "Primary H1 heading is present."
+      },
+      "termsLink": {
+        "status": "FAILED",
+        "evidence": "No link containing \"Terms of Service\" was found."
+      }
+    }
+  },
+  {
+    "storeUrl": "https://www.nespresso.com/",
+    "timestamp": "2025-08-01T16:36:12.965Z",
+    "riskScore": 0,
+    "findings": {
+      "fatalError": {
+        "status": "ERROR",
+        "evidence": "net::ERR_HTTP2_PROTOCOL_ERROR at https://www.nespresso.com/"
+      }
+    }
+  },
+  {
+    "storeUrl": "https://us.skims.com/",
+    "timestamp": "2025-08-01T16:36:18.350Z",
+    "riskScore": 0,
+    "findings": {
+      "fatalError": {
+        "status": "ERROR",
+        "evidence": "net::ERR_NAME_NOT_RESOLVED at https://us.skims.com/"
+      }
+    }
+  },
+  {
+    "storeUrl": "https://www.kyliecosmetics.com/",
+    "timestamp": "2025-08-01T16:36:23.756Z",
+    "riskScore": 70,
+    "findings": {
+      "h1Detection": {
+        "status": "PASSED",
+        "evidence": "Primary H1 heading is present."
+      },
+      "termsLink": {
+        "status": "FAILED",
+        "evidence": "No link containing \"Terms of Service\" was found."
+      }
+    }
+  },
+  {
+    "storeUrl": "https://www.fentybeauty.com/",
+    "timestamp": "2025-08-01T16:36:44.889Z",
+    "riskScore": 70,
+    "findings": {
+      "h1Detection": {
+        "status": "PASSED",
+        "evidence": "Primary H1 heading is present."
+      },
+      "termsLink": {
+        "status": "FAILED",
+        "evidence": "No link containing \"Terms of Service\" was found."
+      }
+    }
+  },
+  {
+    "storeUrl": "https://colourpop.com/",
+    "timestamp": "2025-08-01T16:37:03.880Z",
+    "riskScore": 70,
+    "findings": {
+      "h1Detection": {
+        "status": "PASSED",
+        "evidence": "Primary H1 heading is present."
+      },
+      "termsLink": {
+        "status": "FAILED",
+        "evidence": "No link containing \"Terms of Service\" was found."
+      }
+    }
+  },
+  {
+    "storeUrl": "https://www.sephora.com/",
+    "timestamp": "2025-08-01T16:37:21.173Z",
+    "riskScore": 70,
+    "findings": {
+      "h1Detection": {
+        "status": "PASSED",
+        "evidence": "Primary H1 heading is present."
+      },
+      "termsLink": {
+        "status": "FAILED",
+        "evidence": "No link containing \"Terms of Service\" was found."
+      }
+    }
+  },
+  {
+    "storeUrl": "https://www.ulta.com/",
+    "timestamp": "2025-08-01T16:37:26.833Z",
+    "riskScore": 70,
+    "findings": {
+      "h1Detection": {
+        "status": "PASSED",
+        "evidence": "Primary H1 heading is present."
+      },
+      "termsLink": {
+        "status": "FAILED",
+        "evidence": "No link containing \"Terms of Service\" was found."
+      }
+    }
+  },
+  {
+    "storeUrl": "https://www.dior.com/",
+    "timestamp": "2025-08-01T16:37:42.702Z",
+    "riskScore": 70,
+    "findings": {
+      "h1Detection": {
+        "status": "PASSED",
+        "evidence": "Primary H1 heading is present."
+      },
+      "termsLink": {
+        "status": "FAILED",
+        "evidence": "No link containing \"Terms of Service\" was found."
+      }
+    }
+  },
+  {
+    "storeUrl": "https://www.chanel.com/",
+    "timestamp": "2025-08-01T16:37:48.197Z",
+    "riskScore": 0,
+    "findings": {
+      "fatalError": {
+        "status": "ERROR",
+        "evidence": "net::ERR_HTTP2_PROTOCOL_ERROR at https://www.chanel.com/"
+      }
+    }
+  },
+  {
+    "storeUrl": "https://www.louisvuitton.com/",
+    "timestamp": "2025-08-01T16:37:53.533Z",
+    "riskScore": 0,
+    "findings": {
+      "fatalError": {
+        "status": "ERROR",
+        "evidence": "net::ERR_HTTP2_PROTOCOL_ERROR at https://www.louisvuitton.com/"
+      }
+    }
+  },
+  {
+    "storeUrl": "https://www.pipsnacks.com/",
+    "timestamp": "2025-08-01T16:37:59.461Z",
+    "riskScore": 80,
+    "findings": {
+      "h1Detection": {
+        "status": "FAILED",
+        "evidence": "No H1 heading was found."
+      },
+      "termsLink": {
+        "status": "PASSED",
+        "evidence": "Found link with text: \"TERMS OF SERVICE\""
+      }
+    }
+  },
+  {
+    "storeUrl": "https://www.blueland.com/",
+    "timestamp": "2025-08-01T16:38:09.080Z",
+    "riskScore": 70,
+    "findings": {
+      "h1Detection": {
+        "status": "PASSED",
+        "evidence": "Primary H1 heading is present."
+      },
+      "termsLink": {
+        "status": "FAILED",
+        "evidence": "No link containing \"Terms of Service\" was found."
+      }
+    }
+  },
+  {
+    "storeUrl": "https://www.byhumankind.com/",
+    "timestamp": "2025-08-01T16:38:18.933Z",
+    "riskScore": 70,
+    "findings": {
+      "h1Detection": {
+        "status": "PASSED",
+        "evidence": "Primary H1 heading is present."
+      },
+      "termsLink": {
+        "status": "FAILED",
+        "evidence": "No link containing \"Terms of Service\" was found."
+      }
+    }
+  },
+  {
+    "storeUrl": "https://www.haus.com/",
+    "timestamp": "2025-08-01T16:38:30.722Z",
+    "riskScore": 50,
+    "findings": {
+      "h1Detection": {
+        "status": "FAILED",
+        "evidence": "No H1 heading was found."
+      },
+      "termsLink": {
+        "status": "FAILED",
+        "evidence": "No link containing \"Terms of Service\" was found."
+      }
+    }
+  },
+  {
+    "storeUrl": "https://www.magicspoon.com/",
+    "timestamp": "2025-08-01T16:38:38.567Z",
+    "riskScore": 100,
+    "findings": {
+      "h1Detection": {
+        "status": "PASSED",
+        "evidence": "Primary H1 heading is present."
+      },
+      "termsLink": {
+        "status": "PASSED",
+        "evidence": "Found link with text: \"Terms of Service\""
+      }
+    }
+  },
+  {
+    "storeUrl": "https://www.drink.haus/",
+    "timestamp": "2025-08-01T16:39:10.063Z",
+    "riskScore": 100,
+    "findings": {
+      "h1Detection": {
+        "status": "PASSED",
+        "evidence": "Primary H1 heading is present."
+      },
+      "termsLink": {
+        "status": "PASSED",
+        "evidence": "Found link with text: \"Terms of service\""
+      }
+    }
+  },
+  {
+    "storeUrl": "https://www.partakefoods.com/",
+    "timestamp": "2025-08-01T16:39:19.115Z",
+    "riskScore": 70,
+    "findings": {
+      "h1Detection": {
+        "status": "PASSED",
+        "evidence": "Primary H1 heading is present."
+      },
+      "termsLink": {
+        "status": "FAILED",
+        "evidence": "No link containing \"Terms of Service\" was found."
+      }
+    }
+  },
+  {
+    "storeUrl": "https://www.flybyjing.com/",
+    "timestamp": "2025-08-01T16:39:29.110Z",
+    "riskScore": 100,
+    "findings": {
+      "h1Detection": {
+        "status": "PASSED",
+        "evidence": "Primary H1 heading is present."
+      },
+      "termsLink": {
+        "status": "PASSED",
+        "evidence": "Found link with text: \"TERMS OF SERVICE\""
+      }
+    }
+  },
+  {
+    "storeUrl": "https://www.oseamalibu.com/",
+    "timestamp": "2025-08-01T16:39:40.567Z",
+    "riskScore": 70,
+    "findings": {
+      "h1Detection": {
+        "status": "PASSED",
+        "evidence": "Primary H1 heading is present."
+      },
+      "termsLink": {
+        "status": "FAILED",
+        "evidence": "No link containing \"Terms of Service\" was found."
+      }
+    }
+  },
+  {
+    "storeUrl": "https://www.kin-euphorics.com/",
+    "timestamp": "2025-08-01T16:39:57.847Z",
+    "riskScore": 0,
+    "findings": {
+      "fatalError": {
+        "status": "ERROR",
+        "evidence": "net::ERR_NAME_NOT_RESOLVED at https://www.kin-euphorics.com/"
+      }
+    }
+  },
+  {
+    "storeUrl": "https://www.starfaceworld.com/",
+    "timestamp": "2025-08-01T16:40:04.028Z",
+    "riskScore": 0,
+    "findings": {
+      "fatalError": {
+        "status": "ERROR",
+        "evidence": "net::ERR_NAME_NOT_RESOLVED at https://www.starfaceworld.com/"
+      }
+    }
+  },
+  {
+    "storeUrl": "https://www.topicals.com/",
+    "timestamp": "2025-08-01T16:40:09.348Z",
+    "riskScore": 50,
+    "findings": {
+      "h1Detection": {
+        "status": "FAILED",
+        "evidence": "No H1 heading was found."
+      },
+      "termsLink": {
+        "status": "FAILED",
+        "evidence": "No link containing \"Terms of Service\" was found."
+      }
+    }
+  },
+  {
+    "storeUrl": "https://www.golde.co/",
+    "timestamp": "2025-08-01T16:40:14.836Z",
+    "riskScore": 70,
+    "findings": {
+      "h1Detection": {
+        "status": "PASSED",
+        "evidence": "Primary H1 heading is present."
+      },
+      "termsLink": {
+        "status": "FAILED",
+        "evidence": "No link containing \"Terms of Service\" was found."
+      }
+    }
+  },
+  {
+    "storeUrl": "https://www.thesill.com/",
+    "timestamp": "2025-08-01T16:40:28.368Z",
+    "riskScore": 70,
+    "findings": {
+      "h1Detection": {
+        "status": "PASSED",
+        "evidence": "Primary H1 heading is present."
+      },
+      "termsLink": {
+        "status": "FAILED",
+        "evidence": "No link containing \"Terms of Service\" was found."
+      }
+    }
+  },
+  {
+    "storeUrl": "https://www.areaware.com/",
+    "timestamp": "2025-08-01T16:40:39.371Z",
+    "riskScore": 100,
+    "findings": {
+      "h1Detection": {
+        "status": "PASSED",
+        "evidence": "Primary H1 heading is present."
+      },
+      "termsLink": {
+        "status": "PASSED",
+        "evidence": "Found link with text: \"Terms of Service\""
+      }
+    }
+  },
+  {
+    "storeUrl": "https://www.getquip.com/",
+    "timestamp": "2025-08-01T16:40:48.234Z",
+    "riskScore": 100,
+    "findings": {
+      "h1Detection": {
+        "status": "PASSED",
+        "evidence": "Primary H1 heading is present."
+      },
+      "termsLink": {
+        "status": "PASSED",
+        "evidence": "Found link with text: \"Mobile Terms of Services\""
+      }
+    }
+  },
+  {
+    "storeUrl": "https://www.standardandstrange.com/",
+    "timestamp": "2025-08-01T16:41:14.176Z",
+    "riskScore": 70,
+    "findings": {
+      "h1Detection": {
+        "status": "PASSED",
+        "evidence": "Primary H1 heading is present."
+      },
+      "termsLink": {
+        "status": "FAILED",
+        "evidence": "No link containing \"Terms of Service\" was found."
+      }
+    }
+  },
+  {
+    "storeUrl": "https://www.taylorstitch.com/",
+    "timestamp": "2025-08-01T16:41:24.358Z",
+    "riskScore": 70,
+    "findings": {
+      "h1Detection": {
+        "status": "PASSED",
+        "evidence": "Primary H1 heading is present."
+      },
+      "termsLink": {
+        "status": "FAILED",
+        "evidence": "No link containing \"Terms of Service\" was found."
+      }
+    }
+  },
+  {
+    "storeUrl": "https://www.ironheart.co.uk/",
+    "timestamp": "2025-08-01T16:41:35.442Z",
+    "riskScore": 70,
+    "findings": {
+      "h1Detection": {
+        "status": "PASSED",
+        "evidence": "Primary H1 heading is present."
+      },
+      "termsLink": {
+        "status": "FAILED",
+        "evidence": "No link containing \"Terms of Service\" was found."
+      }
+    }
+  },
+  {
+    "storeUrl": "https://www.selfedge.com/",
+    "timestamp": "2025-08-01T16:41:45.302Z",
+    "riskScore": 50,
+    "findings": {
+      "h1Detection": {
+        "status": "FAILED",
+        "evidence": "No H1 heading was found."
+      },
+      "termsLink": {
+        "status": "FAILED",
+        "evidence": "No link containing \"Terms of Service\" was found."
+      }
+    }
+  },
+  {
+    "storeUrl": "https://www.3sixteen.com/",
+    "timestamp": "2025-08-01T16:41:59.990Z",
+    "riskScore": 70,
+    "findings": {
+      "h1Detection": {
+        "status": "PASSED",
+        "evidence": "Primary H1 heading is present."
+      },
+      "termsLink": {
+        "status": "FAILED",
+        "evidence": "No link containing \"Terms of Service\" was found."
+      }
+    }
+  },
+  {
+    "storeUrl": "https://www.blueowl.us/",
+    "timestamp": "2025-08-01T16:42:11.369Z",
+    "riskScore": 70,
+    "findings": {
+      "h1Detection": {
+        "status": "PASSED",
+        "evidence": "Primary H1 heading is present."
+      },
+      "termsLink": {
+        "status": "FAILED",
+        "evidence": "No link containing \"Terms of Service\" was found."
+      }
+    }
+  },
+  {
+    "storeUrl": "https://www.snakeoilprovisions.com/",
+    "timestamp": "2025-08-01T16:42:22.453Z",
+    "riskScore": 70,
+    "findings": {
+      "h1Detection": {
+        "status": "PASSED",
+        "evidence": "Primary H1 heading is present."
+      },
+      "termsLink": {
+        "status": "FAILED",
+        "evidence": "No link containing \"Terms of Service\" was found."
+      }
+    }
+  },
+  {
+    "storeUrl": "https://mildred.co/",
+    "timestamp": "2025-08-01T16:42:33.036Z",
+    "riskScore": 70,
+    "findings": {
+      "h1Detection": {
+        "status": "PASSED",
+        "evidence": "Primary H1 heading is present."
+      },
+      "termsLink": {
+        "status": "FAILED",
+        "evidence": "No link containing \"Terms of Service\" was found."
+      }
+    }
+  },
+  {
+    "storeUrl": "https://www.heddels.com/shop/",
+    "timestamp": "2025-08-01T16:42:39.990Z",
+    "riskScore": 70,
+    "findings": {
+      "h1Detection": {
+        "status": "PASSED",
+        "evidence": "Primary H1 heading is present."
+      },
+      "termsLink": {
+        "status": "FAILED",
+        "evidence": "No link containing \"Terms of Service\" was found."
+      }
+    }
+  },
+  {
+    "storeUrl": "https://www.fresh.com/",
+    "timestamp": "2025-08-01T16:42:52.603Z",
+    "riskScore": 70,
+    "findings": {
+      "h1Detection": {
+        "status": "PASSED",
+        "evidence": "Primary H1 heading is present."
+      },
+      "termsLink": {
+        "status": "FAILED",
+        "evidence": "No link containing \"Terms of Service\" was found."
+      }
+    }
+  },
+  {
+    "storeUrl": "https://www.kiehls.com/",
+    "timestamp": "2025-08-01T16:42:57.976Z",
+    "riskScore": 50,
+    "findings": {
+      "h1Detection": {
+        "status": "FAILED",
+        "evidence": "No H1 heading was found."
+      },
+      "termsLink": {
+        "status": "FAILED",
+        "evidence": "No link containing \"Terms of Service\" was found."
+      }
+    }
+  },
+  {
+    "storeUrl": "https://www.aesop.com/us/",
+    "timestamp": "2025-08-01T16:43:03.281Z",
+    "riskScore": 70,
+    "findings": {
+      "h1Detection": {
+        "status": "PASSED",
+        "evidence": "Primary H1 heading is present."
+      },
+      "termsLink": {
+        "status": "FAILED",
+        "evidence": "No link containing \"Terms of Service\" was found."
+      }
+    }
+  },
+  {
+    "storeUrl": "https://www.lelabofragrances.com/",
+    "timestamp": "2025-08-01T16:43:17.285Z",
+    "riskScore": 70,
+    "findings": {
+      "h1Detection": {
+        "status": "PASSED",
+        "evidence": "Primary H1 heading is present."
+      },
+      "termsLink": {
+        "status": "FAILED",
+        "evidence": "No link containing \"Terms of Service\" was found."
+      }
+    }
+  },
+  {
+    "storeUrl": "https://www.diptyqueparis.com/",
+    "timestamp": "2025-08-01T16:43:25.546Z",
+    "riskScore": 70,
+    "findings": {
+      "h1Detection": {
+        "status": "PASSED",
+        "evidence": "Primary H1 heading is present."
+      },
+      "termsLink": {
+        "status": "FAILED",
+        "evidence": "No link containing \"Terms of Service\" was found."
+      }
+    }
+  },
+  {
+    "storeUrl": "https://www.jomalone.com/",
+    "timestamp": "2025-08-01T16:43:37.536Z",
+    "riskScore": 0,
+    "findings": {
+      "fatalError": {
+        "status": "ERROR",
+        "evidence": "net::ERR_HTTP2_PROTOCOL_ERROR at https://www.jomalone.com/"
+      }
+    }
+  },
+  {
+    "storeUrl": "https://www.penhaligons.com/",
+    "timestamp": "2025-08-01T16:43:42.895Z",
+    "riskScore": 50,
+    "findings": {
+      "h1Detection": {
+        "status": "FAILED",
+        "evidence": "No H1 heading was found."
+      },
+      "termsLink": {
+        "status": "FAILED",
+        "evidence": "No link containing \"Terms of Service\" was found."
+      }
+    }
+  },
+  {
+    "storeUrl": "https://www.creedboutique.com/",
+    "timestamp": "2025-08-01T16:43:59.000Z",
+    "riskScore": 70,
+    "findings": {
+      "h1Detection": {
+        "status": "PASSED",
+        "evidence": "Primary H1 heading is present."
+      },
+      "termsLink": {
+        "status": "FAILED",
+        "evidence": "No link containing \"Terms of Service\" was found."
+      }
+    }
+  },
+  {
+    "storeUrl": "https://www.byredo.com/",
+    "timestamp": "2025-08-01T16:44:26.296Z",
+    "riskScore": 80,
+    "findings": {
+      "h1Detection": {
+        "status": "FAILED",
+        "evidence": "No H1 heading was found."
+      },
+      "termsLink": {
+        "status": "PASSED",
+        "evidence": "Found link with text: \"Terms of Service\""
+      }
+    }
+  },
+  {
+    "storeUrl": "https://www.maisonfranciskurkdjian.com/",
+    "timestamp": "2025-08-01T16:44:35.158Z",
+    "riskScore": 0,
+    "findings": {
+      "fatalError": {
+        "status": "ERROR",
+        "evidence": "net::ERR_CONNECTION_REFUSED at https://www.maisonfranciskurkdjian.com/"
+      }
+    }
+  },
+  {
+    "storeUrl": "https://sergelutens.com/",
+    "timestamp": "2025-08-01T16:44:42.540Z",
+    "riskScore": 50,
+    "findings": {
+      "h1Detection": {
+        "status": "FAILED",
+        "evidence": "No H1 heading was found."
+      },
+      "termsLink": {
+        "status": "FAILED",
+        "evidence": "No link containing \"Terms of Service\" was found."
+      }
+    }
+  },
+  {
+    "storeUrl": "https://www.fredericmalle.com/",
+    "timestamp": "2025-08-01T16:44:57.054Z",
+    "riskScore": 0,
+    "findings": {
+      "fatalError": {
+        "status": "ERROR",
+        "evidence": "net::ERR_HTTP2_PROTOCOL_ERROR at https://www.fredericmalle.com/"
+      }
+    }
+  },
+  {
+    "storeUrl": "https://www.santimarianovella.com/",
+    "timestamp": "2025-08-01T16:45:02.696Z",
+    "riskScore": 0,
+    "findings": {
+      "fatalError": {
+        "status": "ERROR",
+        "evidence": "net::ERR_NAME_NOT_RESOLVED at https://www.santimarianovella.com/"
+      }
+    }
+  },
+  {
+    "storeUrl": "https://www.ciretrudon.com/",
+    "timestamp": "2025-08-01T16:45:08.154Z",
+    "riskScore": 0,
+    "findings": {
+      "fatalError": {
+        "status": "ERROR",
+        "evidence": "net::ERR_CONNECTION_RESET at https://www.ciretrudon.com/"
+      }
+    }
+  },
+  {
+    "storeUrl": "https://official-merchandise.com/",
+    "timestamp": "2025-08-01T16:45:13.645Z",
+    "riskScore": 70,
+    "findings": {
+      "h1Detection": {
+        "status": "PASSED",
+        "evidence": "Primary H1 heading is present."
+      },
+      "termsLink": {
+        "status": "FAILED",
+        "evidence": "No link containing \"Terms of Service\" was found."
+      }
+    }
+  },
+  {
+    "storeUrl": "https://apps.shopify.com/judgeme",
+    "timestamp": "2025-08-01T16:45:20.350Z",
+    "riskScore": 100,
+    "findings": {
+      "h1Detection": {
+        "status": "PASSED",
+        "evidence": "Primary H1 heading is present."
+      },
+      "termsLink": {
+        "status": "PASSED",
+        "evidence": "Found link with text: \"Terms of service\""
+      }
+    }
+  },
+  {
+    "storeUrl": "https://apps.shopify.com/privy",
+    "timestamp": "2025-08-01T16:45:26.998Z",
+    "riskScore": 100,
+    "findings": {
+      "h1Detection": {
+        "status": "PASSED",
+        "evidence": "Primary H1 heading is present."
+      },
+      "termsLink": {
+        "status": "PASSED",
+        "evidence": "Found link with text: \"Terms of service\""
+      }
+    }
+  },
+  {
+    "storeUrl": "https://apps.shopify.com/klaviyo",
+    "timestamp": "2025-08-01T16:45:34.931Z",
+    "riskScore": 80,
+    "findings": {
+      "h1Detection": {
+        "status": "FAILED",
+        "evidence": "No H1 heading was found."
+      },
+      "termsLink": {
+        "status": "PASSED",
+        "evidence": "Found link with text: \"Terms of service\""
+      }
+    }
+  },
+  {
+    "storeUrl": "https://apps.shopify.com/recharge",
+    "timestamp": "2025-08-01T16:45:40.973Z",
+    "riskScore": 80,
+    "findings": {
+      "h1Detection": {
+        "status": "FAILED",
+        "evidence": "No H1 heading was found."
+      },
+      "termsLink": {
+        "status": "PASSED",
+        "evidence": "Found link with text: \"Terms of service\""
+      }
+    }
+  },
+  {
+    "storeUrl": "https://apps.shopify.com/shogun",
+    "timestamp": "2025-08-01T16:45:46.685Z",
+    "riskScore": 100,
+    "findings": {
+      "h1Detection": {
+        "status": "PASSED",
+        "evidence": "Primary H1 heading is present."
+      },
+      "termsLink": {
+        "status": "PASSED",
+        "evidence": "Found link with text: \"Terms of service\""
+      }
+    }
+  },
+  {
+    "storeUrl": "https://apps.shopify.com/yotpo-social-reviews",
+    "timestamp": "2025-08-01T16:45:58.300Z",
+    "riskScore": 100,
+    "findings": {
+      "h1Detection": {
+        "status": "PASSED",
+        "evidence": "Primary H1 heading is present."
+      },
+      "termsLink": {
+        "status": "PASSED",
+        "evidence": "Found link with text: \"Terms of service\""
+      }
+    }
+  },
+  {
+    "storeUrl": "https://apps.shopify.com/smile-io",
+    "timestamp": "2025-08-01T16:46:07.591Z",
+    "riskScore": 100,
+    "findings": {
+      "h1Detection": {
+        "status": "PASSED",
+        "evidence": "Primary H1 heading is present."
+      },
+      "termsLink": {
+        "status": "PASSED",
+        "evidence": "Found link with text: \"Terms of service\""
+      }
+    }
+  },
+  {
+    "storeUrl": "https://apps.shopify.com/loyal",
+    "timestamp": "2025-08-01T16:46:16.065Z",
+    "riskScore": 80,
+    "findings": {
+      "h1Detection": {
+        "status": "FAILED",
+        "evidence": "No H1 heading was found."
+      },
+      "termsLink": {
+        "status": "PASSED",
+        "evidence": "Found link with text: \"Terms of service\""
+      }
+    }
+  },
+  {
+    "storeUrl": "https://apps.shopify.com/out-of-the-sandbox",
+    "timestamp": "2025-08-01T16:46:23.067Z",
+    "riskScore": 80,
+    "findings": {
+      "h1Detection": {
+        "status": "FAILED",
+        "evidence": "No H1 heading was found."
+      },
+      "termsLink": {
+        "status": "PASSED",
+        "evidence": "Found link with text: \"Terms of service\""
+      }
+    }
+  },
+  {
+    "storeUrl": "https://shop.degordian.com/",
+    "timestamp": "2025-08-01T16:46:30.447Z",
+    "riskScore": 0,
+    "findings": {
+      "fatalError": {
+        "status": "ERROR",
+        "evidence": "net::ERR_NAME_NOT_RESOLVED at https://shop.degordian.com/"
+      }
+    }
+  },
+  {
+    "storeUrl": "https://wemakewebsites.com/shop",
+    "timestamp": "2025-08-01T16:46:35.661Z",
+    "riskScore": 70,
+    "findings": {
+      "h1Detection": {
+        "status": "PASSED",
+        "evidence": "Primary H1 heading is present."
+      },
+      "termsLink": {
+        "status": "FAILED",
+        "evidence": "No link containing \"Terms of Service\" was found."
+      }
+    }
+  },
+  {
+    "storeUrl": "https://www.blackbeltcommerce.com/shop",
+    "timestamp": "2025-08-01T16:46:45.301Z",
+    "riskScore": 70,
+    "findings": {
+      "h1Detection": {
+        "status": "PASSED",
+        "evidence": "Primary H1 heading is present."
+      },
+      "termsLink": {
+        "status": "FAILED",
+        "evidence": "No link containing \"Terms of Service\" was found."
+      }
+    }
+  },
+  {
+    "storeUrl": "https://www.ehouse.co/store",
+    "timestamp": "2025-08-01T16:46:55.195Z",
+    "riskScore": 0,
+    "findings": {
+      "fatalError": {
+        "status": "ERROR",
+        "evidence": "Execution context was destroyed, most likely because of a navigation."
+      }
+    }
+  },
+  {
+    "storeUrl": "https://www.undergroundmedia.co.uk/store",
+    "timestamp": "2025-08-01T16:47:01.428Z",
+    "riskScore": 70,
+    "findings": {
+      "h1Detection": {
+        "status": "PASSED",
+        "evidence": "Primary H1 heading is present."
+      },
+      "termsLink": {
+        "status": "FAILED",
+        "evidence": "No link containing \"Terms of Service\" was found."
+      }
+    }
+  },
+  {
+    "storeUrl": "https://shop.goteo.org/",
+    "timestamp": "2025-08-01T16:47:09.549Z",
+    "riskScore": 0,
+    "findings": {
+      "fatalError": {
+        "status": "ERROR",
+        "evidence": "net::ERR_CERT_AUTHORITY_INVALID at https://shop.goteo.org/"
+      }
+    }
+  },
+  {
+    "storeUrl": "https://merch.streamelements.com/",
+    "timestamp": "2025-08-01T16:47:33.915Z",
+    "riskScore": 100,
+    "findings": {
+      "h1Detection": {
+        "status": "PASSED",
+        "evidence": "Primary H1 heading is present."
+      },
+      "termsLink": {
+        "status": "PASSED",
+        "evidence": "Found link with text: \"Terms of service\""
+      }
+    }
+  },
+  {
+    "storeUrl": "https://store.pixelfilmstudios.com/",
+    "timestamp": "2025-08-01T16:48:02.512Z",
+    "riskScore": 50,
+    "findings": {
+      "h1Detection": {
+        "status": "FAILED",
+        "evidence": "No H1 heading was found."
+      },
+      "termsLink": {
+        "status": "FAILED",
+        "evidence": "No link containing \"Terms of Service\" was found."
+      }
+    }
+  },
+  {
+    "storeUrl": "https://www.pixelunion.net/",
+    "timestamp": "2025-08-01T16:48:15.199Z",
+    "riskScore": 70,
+    "findings": {
+      "h1Detection": {
+        "status": "PASSED",
+        "evidence": "Primary H1 heading is present."
+      },
+      "termsLink": {
+        "status": "FAILED",
+        "evidence": "No link containing \"Terms of Service\" was found."
+      }
+    }
+  },
+  {
+    "storeUrl": "https://trojan-horse-was-a-unicorn.myshopify.com/",
+    "timestamp": "2025-08-01T16:48:27.070Z",
+    "riskScore": 70,
+    "findings": {
+      "h1Detection": {
+        "status": "PASSED",
+        "evidence": "Primary H1 heading is present."
+      },
+      "termsLink": {
+        "status": "FAILED",
+        "evidence": "No link containing \"Terms of Service\" was found."
+      }
+    }
+  },
+  {
+    "storeUrl": "https://ueg-store.myshopify.com/",
+    "timestamp": "2025-08-01T16:48:38.124Z",
+    "riskScore": 70,
+    "findings": {
+      "h1Detection": {
+        "status": "PASSED",
+        "evidence": "Primary H1 heading is present."
+      },
+      "termsLink": {
+        "status": "FAILED",
+        "evidence": "No link containing \"Terms of Service\" was found."
+      }
+    }
+  }
+]

@@ -1,0 +1,71 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Aegis Shield - Compliance Report</title>
+    <style>
+        body { font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif; background-color: #f4f6f8; color: #1a1a1a; margin: 0; padding: 20px; }
+        .report-container { background: white; max-width: 800px; margin: auto; padding: 40px; border-radius: 8px; box-shadow: 0 4px 12px rgba(0,0,0,0.1); }
+        .header { border-bottom: 1px solid #e5e7eb; padding-bottom: 20px; margin-bottom: 20px; }
+        .header h1 { font-size: 28px; margin: 0; }
+        .header p { font-size: 16px; color: #64748b; margin: 5px 0 0 0; }
+        .dashboard { display: flex; gap: 40px; align-items: center; margin-bottom: 40px; }
+        .risk-gauge-container {
+            text-align: center;
+            position: relative; /* ADD THIS LINE */
+        }
+        .risk-gauge { width: 150px; height: 75px; border-radius: 150px 150px 0 0; border: 20px solid #e5e7eb; border-bottom: none; position: relative; }
+        .risk-gauge-fill { width: 100%; height: 100%; position: absolute; top: 0; left: 0; border-radius: 130px 130px 0 0; background-color: #ef4444; transform-origin: bottom center; transition: transform 1s ease-in-out; }
+        .risk-score {
+            font-size: 48px;
+            font-weight: bold;
+            margin-top: 10px;
+            position: relative; /* ADD THIS LINE */
+            z-index: 2;         /* ADD THIS LINE */
+        }
+        .risk-status { font-size: 24px; font-weight: 500; }
+        .summary h2 { font-size: 24px; }
+        .findings h2 { font-size: 22px; margin-bottom: 20px; }
+        .finding-card { border: 1px solid #e5e7eb; border-left-width: 5px; padding: 15px; border-radius: 4px; margin-bottom: 15px; }
+        .finding-card.passed { border-left-color: #22c55e; }
+        .finding-card.failed { border-left-color: #ef4444; }
+        .finding-card p { margin: 0; font-size: 16px; }
+        .finding-card .evidence { font-family: 'Courier New', Courier, monospace; background: #f8f8f8; padding: 5px; border-radius: 3px; margin-top: 10px; display: block; }
+        .cta { margin-top: 40px; text-align: center; background: #f8fafc; padding: 30px; border-radius: 8px; }
+        .cta button { font-size: 18px; padding: 15px 30px; border: none; background-color: #2563EB; color: white; border-radius: 4px; cursor: pointer; }
+    </style>
+</head>
+<body>
+    <div class="report-container">
+        <div class="header">
+            <h1>Compliance Integrity Report</h1>
+            <p id="report-url"></p>
+            <p id="report-timestamp"></p>
+        </div>
+        <div class="dashboard">
+            <div class="risk-gauge-container">
+                <div class="risk-gauge">
+                    <div class="risk-gauge-fill" id="gauge-fill"></div>
+                </div>
+                <div class="risk-score" id="risk-score-text">--</div>
+                <div class="risk-status" id="risk-status-text">Analyzing...</div>
+            </div>
+            <div class="summary">
+                <h2 id="summary-headline"></h2>
+                <p id="summary-subtext"></p>
+            </div>
+        </div>
+        <div class="findings">
+            <h2>Detailed Findings</h2>
+            <div id="findings-list"></div>
+        </div>
+        <div class="cta">
+            <h2>Protect Your Revenue & Build Customer Trust</h2>
+            <p>Aegis Shield automates these fixes and provides 24/7 monitoring.</p>
+            <button>Pre-Order Aegis Shield & Lock In 50% OFF</button>
+        </div>
+    </div>
+    <script src="/report-client.js"></script>
+</body>
+</html>

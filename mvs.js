@@ -9,10 +9,18 @@ async function runScan(targetUrl) {
     findings: {}
   };
 
-  
+
   let browser;
   try {
-    browser = await puppeteer.launch();
+    browser = await puppeteer.launch({
+      headless: 'new',
+      args: [
+        "--disable-gpu",
+        "--disable-dev-shm-usage",
+        "--disable-setuid-sandbox",
+        "--no-sandbox",
+      ],
+    });
     const page = await browser.newPage();
     await page.goto(targetUrl, { waitUntil: 'domcontentloaded' });
 
